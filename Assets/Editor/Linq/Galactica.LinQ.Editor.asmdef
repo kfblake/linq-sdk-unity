@@ -1,0 +1,18 @@
+{
+    "name": "Galactica.LinQ.Editor",
+    "rootNamespace": "LinqUnity.Editor",
+    "references": [
+        "Galactica.Linq"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
